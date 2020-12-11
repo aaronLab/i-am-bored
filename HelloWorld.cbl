@@ -14,3 +14,5 @@
             DISPLAY "Hello world"
             STOP RUN.
        END PROGRAM YOUR-PROGRAM-NAME.
+
+      *>  This Is Comment
